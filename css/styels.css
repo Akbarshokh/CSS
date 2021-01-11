@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+}
+
+.top{
+    background-color: #E8F9F5;
+}
+ .middle{
+     background-color: brown;
+     width: 200px;
+     height: 200px;
+ }
+
+ .bottom{
+     background-color: chartreuse;
+     width: 200px;
+     height: 200px;
+ }
